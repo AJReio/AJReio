@@ -19,3 +19,11 @@ Currently, I am still learning JavaScript, React and Python and I try to focus m
 I would love to be able to work on projects that allow me to develop my skills beyond what I can learn on my own and connect with other programmers to learn and continue enjoying the path to a professional future.
 
 A curiosity about me is that I have been involved in musical projects since my adolescence, and thanks to that, I've traveled a lot of places in Spain as a DJ! It's easy to find me enjoying a record in the company of my pets! 
+
+
+Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+
+
