@@ -1,6 +1,6 @@
 - 👋 ¡HOLA MUNDO! 
 
-Mi nombre es Alejandro Rello y soy un desarrollador Full-Stack junior en formación contínua. 
+Mi nombre es Alejandro Rello y soy un desarrollador Full-Stack en formación contínua. 
 Siempre he sentido curiosidad por como funcionan las tecnologías y aplicaciones que usamos a diario y por eso decidí dejar mi trabajo para invertir en mí y explorar una profesión que me resulta apasionante.
 Actualmente sigo aprendiendo JavaScript, React y Phyton y centro mis esfuerzos en formarme más a fondo en el área de back end.
 
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 👋 HELLO WORLD!
 
-My name is Alejandro Rello and I am a junior Full-Stack developer in continuous training. 
+My name is Alejandro Rello and I am a Full-Stack developer in continuous training. 
 I have always been curious about how the technologies and applications we use daily work, and that's why I decided to leave my job to invest in myself and explore a profession that I find passionate.
 Currently, I am still learning JavaScript, React and Python and I try to focus my efforts on training myself more deeply in the back-end area.
 
